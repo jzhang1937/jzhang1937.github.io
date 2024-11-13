@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Jeff Zhang</title>
-    <link>http://localhost:4321/teaching/</link>
+    <link>http://jzhang1937.github.io/teaching/</link>
     <description>Recent content in Teaching on Jeff Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Jan 2020 14:15:59 -0600</lastBuildDate>
-    <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jzhang1937.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:4321/teaching/statistics/</link>
+      <link>http://jzhang1937.github.io/teaching/statistics/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/teaching/statistics/</guid>
+      <guid>http://jzhang1937.github.io/teaching/statistics/</guid>
       <description>&lt;h1 id=&#34;teaching-assistant-at-penn&#34;&gt;Teaching assistant at Penn&#xA;  &lt;a href=&#34;#teaching-assistant-at-penn&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;STAT 9220: Advanced Causal Inference, Fall ’24 – Graduate Level&lt;/strong&gt;&lt;br&gt;&#xA;Taught by Eric Tchetgen Tchetgen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;STAT 921: Observational Studies, Spring ’24 – Graduate Level&lt;/strong&gt;&lt;br&gt;&#xA;Taught by Dylan Small&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;STAT 101: Introduction to Business Statistics, Spring ’23 – Undergraduate Level&lt;/strong&gt;&lt;br&gt;&#xA;Taught by Darin Kapanjie&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;STAT 102: Introduction to Business Statistics, Fall ’21 – Undergraduate Level&lt;/strong&gt;&lt;br&gt;&#xA;Taught by Shuva Gupta&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;STAT 111: Introductory Statistics, Fall ’20, Spring ’21 – Undergraduate Level (Grader)&lt;/strong&gt;&lt;br&gt;&#xA;Taught by Warren Ewens&lt;/p&gt;</description>
     </item>
   </channel>
